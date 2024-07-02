@@ -8,3 +8,20 @@ footer{
     font-size: 80%;
 }
 
+.icon-input{
+    font-size: 30px;
+}
+
+.conexao{
+    font-size: 80%;
+}
+
+a{
+    text-decoration: none;
+    font-size: 80%;
+}
+
+.img-top{
+    width: 5vh;
+    height: 5vh;
+}
